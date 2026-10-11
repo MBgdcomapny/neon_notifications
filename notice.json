@@ -1,0 +1,15 @@
+[
+  {
+    "id": "2026-10-benvenuto",
+    "title": {
+      "it": "Benvenuto in NEON!",
+      "en": "Welcome to NEON!",
+      "es": "¡Bienvenido a NEON!"
+    },
+    "text": {
+      "it": "Grazie per aver provato la demo. Dicci cosa ne pensi dalla sezione Contattaci.",
+      "en": "Thanks for trying the demo. Tell us what you think from the Contact Us section.",
+      "es": "Gracias por probar la demo. Cuéntanos qué te parece desde la sección Contáctanos."
+    }
+  }
+]
