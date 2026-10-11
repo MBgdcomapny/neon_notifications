@@ -4,12 +4,24 @@
     "title": {
       "it": "Benvenuto in NEON!",
       "en": "Welcome to NEON!",
-      "es": "¡Bienvenido a NEON!"
+      "es": "¡Bienvenido a NEON!",
+      "pt": "Bem-vindo ao NEON!",
+      "de": "Willkommen bei NEON!",
+      "fr": "Bienvenue dans NEON !",
+      "ru": "Добро пожаловать в NEON!",
+      "zh": "欢迎来到 NEON！",
+      "ja": "NEONへようこそ！"
     },
     "text": {
       "it": "Grazie per aver provato la demo. Dicci cosa ne pensi dalla sezione Contattaci.",
       "en": "Thanks for trying the demo. Tell us what you think from the Contact Us section.",
-      "es": "Gracias por probar la demo. Cuéntanos qué te parece desde la sección Contáctanos."
+      "es": "Gracias por probar la demo. Cuéntanos qué te parece desde la sección Contáctanos.",
+      "pt": "Obrigado por experimentar a demo. Diga-nos o que acha na seção Fale Conosco.",
+      "de": "Danke, dass du die Demo ausprobierst. Sag uns im Bereich Kontakt, was du denkst.",
+      "fr": "Merci d'essayer la démo. Dites-nous ce que vous en pensez dans la section Nous contacter.",
+      "ru": "Спасибо, что попробовали демо-версию. Расскажите, что вы думаете, в разделе «Связаться с нами».",
+      "zh": "感谢试玩演示版。请在“联系我们”页面告诉我们你的想法。",
+      "ja": "デモをプレイしていただきありがとうございます。ご感想は「お問い合わせ」からお聞かせください。"
     }
   }
 ]
